@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Fadi Masannat
+### Hello 🌎, I'm Fadi Masannat - This Repo is a work in progress NOT ALL INFO IS MINE
 I am a  software engineering student at Iowa State University with a passion for creating innovative digital solutions and full stack web applications. I am passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
   - 🔭 I’m currently working on a full stack functional banking application
