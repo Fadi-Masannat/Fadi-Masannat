@@ -1,13 +1,11 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ### Hello 🌎, I'm Fadi Masannat
+I am a  software engineering student at Iowa State University with a passion for creating innovative digital solutions and full stack web applications. I am passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
 
-With over 8 years of experience as a Software Engineer, I'm on a mission to create technology solutions that connect the digital world with real life! I have the power to develop in frontend, backend, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
-
-
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
+  - 🔭 I’m currently working on a full stack functional banking application
+  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, AWS.
+  - 💬 Ask me about **Java, Typescript, Html,  Spring Boot,Css, Bootstrap, Javascript, React,  PHP, Sass,  C#, .NET, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker**
   - ⚡ Fun fact: I look like a hobbit.
 
 <h3 align="left">Connect with me:</h3>
@@ -25,10 +23,10 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 <h3 align="left">Activity:</h3>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadi-Masannat&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fadi-Masannat&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/RResabala2015">
+  <a href="https://github.com/Fadi-Masannat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadi-Masannat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Fadi-Masannat"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fadi-Masannat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Fadi-Masannat"/>
   </a>
