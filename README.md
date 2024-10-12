@@ -6,7 +6,7 @@ I am a  software engineering student at Iowa State University with a passion for
   - 🔭 I’m currently working on a full stack functional banking application
   - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, AWS.
   - 💬 Ask me about **Java, Typescript, Html,  Spring Boot,Css, Bootstrap, Javascript, React,  PHP, Sass,  C#, .NET, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker**
-  - ⚡ Fun fact: I look like a hobbit.
+  - ⚡ Fun fact: I am a dual citizen.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
